@@ -7,4 +7,4 @@ Data Fluency: Exploring and Describing Data
 This is my Certificate Of Completion for learning "Data Fluency: Exploring and Describing Data" Course:
 <br />
 <br />
-<img src="CertificationOfCompletion.png"/>
+<img src="CertificateOfCompletion.png"/>
